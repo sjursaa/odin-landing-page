@@ -48,18 +48,22 @@ button {
 }
 
 .sign-up-section h1 {
-  background-color: #3882f6;
   color: #e5e7eb;
 }
 
-/* .sign-up-section { */
-/*   display: flex; */
-/*   align-items: center; */
-/*   justify-content: space-evenly; */
-/* } */
+.sign-up-section {
+  display: flex;
+  background-color: white;
+  align-items: center;
+  justify-content: space-evenly;
+}
 
 .sign-up-section .container {
-  margin: 100px;
+  background-color: #3882f6;
+  margin: 50px;
+  padding: 10px;
+  padding-left: 100px;
+  padding-right: 100px;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
