@@ -43,6 +43,16 @@ button {
   color: #e5e7eb;
 }
 
+.sign-up-section {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.sign-up-section .container {
+  display: flex;
+}
+
 footer {
   padding: 28px;
   text-align: center;
