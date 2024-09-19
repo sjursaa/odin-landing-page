@@ -42,3 +42,8 @@ button {
   background-color: #3882f6;
   color: #e5e7eb;
 }
+
+footer {
+  padding: 28px;
+  text-align: center;
+}
