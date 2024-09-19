@@ -33,6 +33,14 @@ header li {
   color: #f9faf8;
 }
 
+.hero-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 50px;
+  align-items: center;
+}
+
 .image-section {
   background-color: white;
   /* image frames should be same color as buttons */
