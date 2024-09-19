@@ -12,4 +12,10 @@ Flexbox is the main skill that is targeted for this project.
 []add randominfo/image-flexbox to index.html
 []publish solution on github, add link to readme
 
-[]flexbox header
+Arrange sections
+[]header
+[]hero-section
+[]image-section
+[]quote-section
+[]sign-up-section
+[]footer
