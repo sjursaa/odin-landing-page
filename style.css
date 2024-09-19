@@ -46,6 +46,19 @@ header li {
   /* image frames should be same color as buttons */
 }
 
+.image {
+  size: 50px;
+}
+
+img {
+  border-color: black;
+}
+
+.image-section .container {
+  display: flex;
+  flex-direction: row;
+}
+
 .image-section h1 {
   color: #1f2937;
   font-size: 36px;
