@@ -18,10 +18,13 @@ footer,
 
 .image-section {
   background-color: white;
+  /* image frames should be same color as buttons */
 }
 
 .image-section h1 {
-  color: black;
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
 }
 
 .quote-section {
