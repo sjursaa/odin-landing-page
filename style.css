@@ -15,6 +15,18 @@ footer,
   font-size: 18px;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+header li {
+  list-style-type: none;
+  display: inline;
+  padding: 4px;
+}
+
 .hero-section h1 {
   font-size: 48px;
   font-weight: 900;
