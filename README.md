@@ -6,16 +6,16 @@ Flexbox is the main skill that is targeted for this project.
 
 # TODO/Outstanding tasks
 
-[]upload solution to github
-[]submit solution to theodinproject
-[]add reference images to repo, and display in README.md
-[]add randominfo/image-flexbox to index.html
+[]upload solution to github  
+[]submit solution to theodinproject  
+[]add reference images to repo, and display in README.md  
+[]add randominfo/image-flexbox to index.html  
 []publish solution on github, add link to readme
 
-Arrange sections
-[]header
-[]hero-section
-[]image-section
-[]quote-section
-[]sign-up-section
+Arrange sections  
+[]header  
+[]hero-section  
+[]image-section  
+[]quote-section  
+[]sign-up-section  
 []footer
