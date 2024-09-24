@@ -10,10 +10,10 @@ Flexbox is the main skill that is targeted for this project.
 []submit solution to theodinproject  
 []add reference images to repo, and display in README.md  
 [x]add randominfo/image-flexbox to index.html  
-[]publish solution on github, add link to readme (viewable website)
+[]publish solution on github, add link to readme (viewable website)  
 []add curved corners to buttons, borders, etc.
 
-Arrange sections
+Arrange sections  
 [x]header  
 [x]hero-section  
 [x]image-section  
