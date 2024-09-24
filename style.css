@@ -51,7 +51,7 @@ header li {
   size: 50px;
 }
 
-img {
+.image-section img {
   border-color: #3882f6;
   border-style: solid;
 }
@@ -82,6 +82,7 @@ img {
 button {
   background-color: #3882f6;
   color: #e5e7eb;
+  border-style: solid;
 }
 
 .sign-up-section button {
