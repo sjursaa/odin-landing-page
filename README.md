@@ -6,16 +6,29 @@ Flexbox is the main skill that is targeted for this project.
 
 # TODO/Outstanding tasks
 
-[]upload solution to github  
+[x]upload solution to github  
 []submit solution to theodinproject  
 []add reference images to repo, and display in README.md  
-[]add randominfo/image-flexbox to index.html  
-[]publish solution on github, add link to readme
+[x]add randominfo/image-flexbox to index.html  
+[]publish solution on github, add link to readme (viewable website)
+[]add curved corners to buttons, borders, etc.
 
-Arrange sections  
-[]header  
-[]hero-section  
-[]image-section  
-[]quote-section  
-[]sign-up-section  
-[]footer
+Arrange sections
+[x]header  
+[x]hero-section  
+[x]image-section  
+[x]quote-section  
+[x]sign-up-section  
+[x]footer
+[]make footer sticky
+
+# Notes/CSS-cheatsheet.
+
+```CSS
+display: flex;
+flex-direction: column/row;
+justify-items: space-evenly/space-between;
+align-items: center;
+```
+
+[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
