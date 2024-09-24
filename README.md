@@ -6,20 +6,11 @@ Flexbox is the main skill that is targeted for this project.
 
 # TODO/Outstanding tasks
 
-[x] upload solution to github  
-[] submit solution to theodinproject  
+[] submit solution to TheOdinProject  
 [] add reference images to repo, and display in README.md  
-[x] add randominfo/image-flexbox to index.html  
-[] publish solution on github, add link to readme (viewable website)  
+[] publish solution on github, add link to README.md (viewable website)  
 [] add curved corners to buttons, borders, etc.
-
-Arrange sections  
-[x] header  
-[x] hero-section  
-[x] image-section  
-[x] quote-section  
-[x] sign-up-section  
-[x] footer  
+[] add margins to main sections
 [] make footer sticky
 
 # Notes/CSS-cheatsheet.
