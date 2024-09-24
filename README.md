@@ -31,4 +31,7 @@ justify-items: space-evenly/space-between;
 align-items: center;
 ```
 
-[![App Platorm](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)](https://cdn.statically.io/gh/TheOdinProject/)
+# Reference material
+
+[![Reference Image](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)](https://cdn.statically.io/gh/TheOdinProject/)
+[![Fonts and Such](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/02.png)](https://cdn.statically.io/gh/TheOdinProject/)
