@@ -19,7 +19,7 @@ Arrange sections
 [x]image-section  
 [x]quote-section  
 [x]sign-up-section  
-[x]footer
+[x]footer  
 []make footer sticky
 
 # Notes/CSS-cheatsheet.
