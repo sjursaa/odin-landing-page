@@ -27,7 +27,7 @@ Arrange sections
 ```CSS
 display: flex;
 flex-direction: column/row;
-justify-items: space-evenly/space-between;
+justify-items: space-evenly/space-between/space-around;
 align-items: center;
 ```
 
