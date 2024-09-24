@@ -12,6 +12,9 @@ Flexbox is the main skill that is targeted for this project.
 [] add curved corners to buttons, borders, etc.
 [] add margins to main sections
 [] make footer sticky
+[] center randominfo header
+[] adjust text emphasis for quote-section
+[] remove border for sign-up button in hero section
 
 # Notes/CSS-cheatsheet.
 
