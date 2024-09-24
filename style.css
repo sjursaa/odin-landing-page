@@ -36,13 +36,14 @@ header li {
 .hero-section {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding: 50px;
   align-items: center;
 }
 
 .image-section {
   background-color: white;
+  justify-content: space-evenly;
   /* image frames should be same color as buttons */
 }
 
@@ -51,12 +52,19 @@ header li {
 }
 
 img {
-  border-color: black;
+  border-color: #3882f6;
+  border-style: solid;
 }
 
 .image-section .container {
   display: flex;
   flex-direction: row;
+}
+
+.image-section .container .element {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .image-section h1 {
