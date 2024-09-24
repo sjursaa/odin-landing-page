@@ -9,11 +9,11 @@ Flexbox is the main skill that is targeted for this project.
 [] submit solution to TheOdinProject  
 [] add reference images to repo, and display in README.md  
 [] publish solution on github, add link to README.md (viewable website)  
-[] add curved corners to buttons, borders, etc.
-[] add margins to main sections
-[] make footer sticky
-[] center randominfo header
-[] adjust text emphasis for quote-section
+[] add curved corners to buttons, borders, etc.  
+[] add margins to main sections  
+[] make footer sticky  
+[] center randominfo header  
+[] adjust text emphasis for quote-section  
 [] remove border for sign-up button in hero section
 
 # Notes/CSS-cheatsheet.
