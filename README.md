@@ -31,4 +31,4 @@ justify-items: space-evenly/space-between;
 align-items: center;
 ```
 
-[![App Platorm](https://doimages.nyc3.cdn.digitaloceanspaces.com/002Blog/0-BLOG-BANNERS/app_platform.png)](https://www.digitalocean.com/products/app-platform)
+[![App Platorm](https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png)](https://cdn.statically.io/gh/TheOdinProject/)
