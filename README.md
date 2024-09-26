@@ -4,17 +4,16 @@ Pure HTML/CSS project.
 The goal is to make a landing page that looks as close to the reference photo as possible.
 Flexbox is the main skill that is targeted for this project.
 
-# TODO/Outstanding tasks
+# Outstanding tasks
 
-[] submit solution to TheOdinProject  
-[] add reference images to repo, and display in README.md  
-[] publish solution on github, add link to README.md (viewable website)  
-[] add curved corners to buttons, borders, etc.  
-[] add margins to main sections  
-[] make footer sticky  
-[] center randominfo header  
-[] adjust text emphasis for quote-section  
-[] remove border for sign-up button in hero section
+TODO: submit solution to TheOdinProject  
+TODO: add link to website in README.md (viewable website)  
+TODO: add curved corners to buttons, borders, etc.  
+TODO: add margins to main sections  
+TODO: make footer sticky  
+TODO: center randominfo header  
+TODO: adjust text emphasis for quote-section  
+TODO: remove border for sign-up button in hero section
 
 # Notes/CSS-cheatsheet.
 
