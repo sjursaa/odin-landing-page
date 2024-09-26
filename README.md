@@ -34,6 +34,8 @@ flex: 1 1 auto;
 flex-basis: 1;
 flex-grow: 1;
 flex-shrink: auto;
+
+gap: 20px;
 ```
 
 Flex-directions:  
