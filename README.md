@@ -23,7 +23,22 @@ display: flex;
 flex-direction: column/row;
 justify-items: space-evenly/space-between/space-around;
 align-items: center;
+
+/* shorthand */
+flex: 1;
+
+/* alt shorthand */
+flex: 1 1 auto;
+
+/* same but verbose ? */
+flex-basis: 1;
+flex-grow: 1;
+flex-shrink: auto;
 ```
+
+Flex-directions:  
+Column (Vertical)  
+Row (Horizontal)
 
 # Reference material
 
